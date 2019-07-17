@@ -1,5 +1,14 @@
+header
+{
+  background-color: powderblue;
+  padding: 40px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
 body 
-{background-color: powderblue;}
+{background-color: lightgrey;}
 h1 
 { 
   color: blue;
