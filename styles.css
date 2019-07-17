@@ -1,6 +1,6 @@
 header
 {
-  background-color: powderblue;
+  background-color: lightgrey;
   padding: 40px;
   text-align: center;
   font-size: 35px;
@@ -8,7 +8,7 @@ header
 }
 
 body 
-{background-color: lightgrey;}
+{background-color: powderblue;}
 h1 
 { 
   color: blue;
