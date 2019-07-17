@@ -8,7 +8,9 @@ header
 }
 
 body 
-{background-color: powderblue;}
+{
+  background-color: powderblue;
+}
 h1 
 { 
   color: blue;
