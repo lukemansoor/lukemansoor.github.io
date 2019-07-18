@@ -1,0 +1,98 @@
+body
+{
+	background-color: powderblue;
+}
+header
+{
+	background-color: #777;
+padding: 20px;
+	 text-align: center;
+	 font-size: 35px;
+color: white;
+}
+
+section
+{
+display: -webkit-flex;
+display: flex;
+}
+
+nav 
+{
+	-webkit-flex: 1;
+	-ms-flex: 1;
+flex: 1;
+background: #ccc;
+padding: 20px;
+}
+
+nav ul 
+{
+	list-style-type: none;
+padding: 0;
+}
+
+article {
+	-webkit-flex: 3;
+	-ms-flex: 3;
+flex: 3;
+      background-color: #f1f1f1;
+padding: 10px;
+}
+
+footer 
+{
+	background-color: #777;
+padding: 30px;
+	 text-align: center;
+color: white;
+}
+
+@media (max-width: 800px) 
+{
+	section 
+	{
+		-webkit-flex-direction: column;
+		flex-direction: column;
+	}
+}
+
+<<<<<<< HEAD
+body 
+{
+  background-color: powderblue;
+}
+=======
+>>>>>>> e130b20af17d10e79d3250c6ac9b62d504c2c343
+h1 
+{ 
+color: blue;
+       font-family: verdana;
+       font-size: 300%;
+}
+
+p 
+{
+color: red;
+       font-family: courier;
+       font-size: 160%;
+}
+
+.flex-container {
+display: flex;
+	 flex-direction: vertical;
+	 align-items: center;
+	 ackground-color: DodgerBlue;
+}
+
+.flex-container > div {
+	background-color: #f1f1f1;
+width: 100px;
+margin: 10px;
+	text-align: center;
+	line-height: 75px;
+	font-size: 30px;
+}
+
+* { padding: 0; margin: 0; }
+canvas { background: #eee; display: block; margin: 0 auto; }
