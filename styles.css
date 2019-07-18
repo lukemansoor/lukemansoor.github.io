@@ -74,6 +74,7 @@ p
 .flex-container {
 	display: flex;
 	flex-direction: vertical;
+	align-items: center;
 	background-color: DodgerBlue;
 }
 
