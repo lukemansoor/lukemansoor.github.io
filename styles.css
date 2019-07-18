@@ -48,7 +48,7 @@ padding: 30px;
 color: white;
 }
 
-@media (max-width: 600px) 
+@media (max-width: 800px) 
 {
 	section 
 	{
@@ -71,7 +71,7 @@ color: red;
        font-size: 160%;
 }
 
-<!--.flex-container {
+.flex-container {
 display: flex;
 	 flex-direction: vertical;
 	 align-items: center;
@@ -86,4 +86,3 @@ margin: 10px;
 	line-height: 75px;
 	font-size: 30px;
 }
--->
