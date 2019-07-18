@@ -75,7 +75,7 @@ color: red;
 display: flex;
 	 flex-direction: vertical;
 	 align-items: center;
-	 background-color: DodgerBlue;
+	 ackground-color: DodgerBlue;
 }
 
 .flex-container > div {
