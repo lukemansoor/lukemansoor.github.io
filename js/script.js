@@ -8,7 +8,8 @@ function calculate()
 }
 
 
-function operate(value1, value2, operator) {
+function operate(value1, value2, operator)
+{
         if (operator == 'addition') {
                 return value1 + value2;
         } else if (operator == 'subtraction') {
